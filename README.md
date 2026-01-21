@@ -3,6 +3,10 @@
 ## Project Overview
 This project involves a deep dive into the Video Game Sales dataset to uncover trends, patterns, and relationships between game features and global market success. The goal was to move beyond raw numbers and visualize the underlying behavior of the gaming industry.
 
+## Dataset Source
+- **Origin:** Kaggle (Author: Gregory Smith)
+- **Dataset Name:** Video Game Sales (vgsales.csv)
+
 ## Dataset Description
 - *Source:* VGSales.csv
 - *Size:* 16,598 records
